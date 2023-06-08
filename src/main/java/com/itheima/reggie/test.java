@@ -6,6 +6,7 @@ public class test {
         int b = 2;
         int c = 3;
         int e = 5;
+        int d = 4;
         System.out.println("123");
     }
 }
